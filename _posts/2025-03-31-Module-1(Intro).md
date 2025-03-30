@@ -8,6 +8,8 @@ tags: [Malware]
 Malware, short for **malicious software**, is any software designed to harm, exploit, or take unauthorized control of a computer, network, or device.
 ### Key Points in Simple Terms:
 
+![alt text](<E:\07MayankBhardwaj.github.io.git\07MayankBhardwaj.github.io\_posts\media\WhatsApp Image 2025-03-29 at 07.11.10_aa7bb203.jpg>)
+
 1. **Purpose**: Malware is created to cause damage, steal information, spy on users, or disrupt normal operations.
 2. **Examples**:
     - **Viruses**: Programs that spread and infect other files or systems.
