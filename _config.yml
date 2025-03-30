@@ -95,7 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://your-cdn-url.com"
+
+# Base URL for media files
+media_baseurl: "_posts/media"
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
@@ -215,6 +218,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  # Ensure 'media' is not excluded
 
 jekyll-archives:
   enabled: [categories, tags]
