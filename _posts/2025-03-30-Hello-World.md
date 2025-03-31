@@ -15,6 +15,6 @@ image:
 
 Hello World, Mayank's personal blog.
 
-![Desktop View](media/test.jpg){: width="200" height="200" }
+
 
 
