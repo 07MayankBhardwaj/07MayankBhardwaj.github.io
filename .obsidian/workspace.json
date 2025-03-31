@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-30-Hello-World.md",
+                "file": "_posts/2025-04-01-From Where to Start Malware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-30-Hello-World"
+              "title": "2025-04-01-From Where to Start Malware"
             }
           }
         ]
@@ -170,11 +170,20 @@
   },
   "active": "0332ec940ec28c97",
   "lastOpenFiles": [
+    "_site/posts/From-Where-to-Start-Malware/index.html",
+    "_site/posts/From-Where-to-Start-Malware",
+    "_site/tags/research/index.html",
+    "_site/tags/research",
+    "_site/posts/From-Where-to-Start-Malware-Analysis/index.html",
+    "_site/posts/From-Where-to-Start-Malware-Analysis",
+    "_site/categories/malware/index.html",
+    "_site/categories/malware",
+    "_site/posts/2025-04-01-From-Where-to-Start-Malware-Analysis/index.html",
+    "_site/posts/2025-04-01-From-Where-to-Start-Malware-Analysis",
+    "_posts/2025-03-30-Hello-World.md",
+    "_posts/2025-04-01-From Where to Start Malware.md",
+    "_posts/2025-03-31-Module-1(Intro).md",
     "_site/posts/Hello-World/index.html",
-    "_site/posts/Hello-World",
-    "_site/posts/2025-03-30-Hello-World/index.html",
-    "_site/posts/2025-03-30-Hello-World",
-    "media/test.jpg",
-    "_posts/2025-03-30-Hello-World.md"
+    "media/test.jpg"
   ]
 }
