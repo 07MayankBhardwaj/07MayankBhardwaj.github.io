@@ -168,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0332ec940ec28c97",
+  "active": "a9039fcced538465",
   "lastOpenFiles": [
+    "_site/media/cloudflare.jpg",
+    "_site/media/google.jpg",
+    "_site/media/WhatsApp Image 2025-03-29 at 07.11.26_365bf161.jpg",
+    "media/cloudflare.jpg",
+    "_site/media/WhatsApp Image 2025-03-29 at 07.11.10_aa7bb203.jpg",
+    "_site/media",
+    "media/google.jpg",
     "_site/posts/From-Where-to-Start-Malware/index.html",
     "_site/posts/From-Where-to-Start-Malware",
     "_site/tags/research/index.html",
@@ -179,11 +186,9 @@
     "_site/categories/malware/index.html",
     "_site/categories/malware",
     "_site/posts/2025-04-01-From-Where-to-Start-Malware-Analysis/index.html",
-    "_site/posts/2025-04-01-From-Where-to-Start-Malware-Analysis",
     "_posts/2025-03-30-Hello-World.md",
     "_posts/2025-04-01-From Where to Start Malware.md",
     "_posts/2025-03-31-Module-1(Intro).md",
-    "_site/posts/Hello-World/index.html",
     "media/test.jpg"
   ]
 }
