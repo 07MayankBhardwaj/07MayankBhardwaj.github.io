@@ -36,7 +36,7 @@ What made WannaCry unique wasn't just its encryption — it was a **self-propaga
 
 ---
 
-## Static Analysis
+## Static Analysi
 
 ### Strings Extraction
 
