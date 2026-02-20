@@ -211,6 +211,10 @@ Port:   9001, 9003 (Tor C2)
 
 ---
 
+![1771554433183_Screenshot_2026-01-27_075910.png](/media/1771554433183_Screenshot_2026-01-27_075910.png)
+
+
+
 ## Conclusion
 
 WannaCry remains a masterclass in destructive APT-level malware. What started as an NSA offensive tool ended up crippling hospitals, banks, and government agencies. The accidental kill-switch discovery by Marcus Hutchins is one of the most remarkable events in cybersecurity history.
